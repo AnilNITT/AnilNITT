@@ -1,8 +1,8 @@
 ### Hello 👋, thanks for stopping by!            
 
 [![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
-#### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
-#### Connect with me:
+### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
+### Connect with me:
 <p>
 <a href=""><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
   
