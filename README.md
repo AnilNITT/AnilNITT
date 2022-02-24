@@ -4,12 +4,12 @@
 ## I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
 ## Connect with me:
 <p>
-<a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
+<a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="30"></a> 
 <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
 <a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=Linkedin&style=social&url=https://www.linkedin.com/in/anilnitt/" height="25">
-<a href="https://twitter.com/mohan2036" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
-<a href="https://drive.google.com/file/d/1tz9-FStQ1TrnyoPzo26IgHUQSiETLa6z/view?usp=sharing" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
+<a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 ![Ram's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/AnilNITT/github-readme-stats)
