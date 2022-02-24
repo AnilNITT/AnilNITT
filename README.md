@@ -13,8 +13,7 @@
 
  #### :octocat: My Github Statistics
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)]
-(https://komarev.com/ghpvc/?username=AnilNITT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=AnilNITT)
 <br><p>
