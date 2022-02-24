@@ -1,8 +1,8 @@
 ### Hello 👋, thanks for stopping by!            
 
 [![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
-## I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
-## Connect with me:
+### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
+### Connect with me:
 <p>
 <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
 <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
@@ -11,6 +11,7 @@
 <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
+ #### :octocat: My Github Statistics
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/AnilNITT/github-readme-stats)
 <br><p>
@@ -18,7 +19,8 @@
 <br><p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
