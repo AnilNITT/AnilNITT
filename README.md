@@ -1,6 +1,6 @@
 ### Hello 👋, thanks for stopping by!            
 
-[![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil-P-tidar-gggddd.svg)](https://ram-sah.github.io/React-Portfolio)
+[![Author: Anil Patidar](https://img.shields.io/static/v1?label=I'm&message=Anil Patidar&color=brightgreen)](https://ram-sah.github.io/React-Portfolio)
 #### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
 #### Connect with me:
 <p>
