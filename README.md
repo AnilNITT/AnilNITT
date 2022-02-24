@@ -1,11 +1,12 @@
 ### Hello 👋, thanks for stopping by!            
 
-[![Author: Anil Patidar](https://img.shields.io/badge/i'm-Anil%20Patidar-brightgreen)](https://ram-sah.github.io/React-Portfolio)
-#### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
+[![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
+#### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
 #### Connect with me:
 <p>
-<a href="https://ram-sah.github.io/React-Portfolio"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
-<a href="https://github.com/ram-sah"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
+<a href=""><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
+  
+<a href="https://github.com/AnilNITT"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
 <a href="mailto:rsah1@asu.edu"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
 <a href="https://www.linkedin.com/in/ram-sah"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fram-sah" height="25">
 <a href="https://twitter.com/mohan2036"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
