@@ -12,11 +12,11 @@
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/AnilNITT/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)(https://github.com/AnilNITT/github-readme-stats)
 <br><p>
 <br><p>
 <br><p>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" Style="border: 2px solid red;border-radius: 25px;"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
