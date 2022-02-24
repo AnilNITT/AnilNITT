@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)(https://github.com/AnilNITT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/AnilNITT/github-readme-stats)
 <br><p>
 <br><p>
 <br><p>
