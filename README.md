@@ -21,7 +21,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
-</div><br>
+</div>
 
 <h4>Languages and Tools:</h4> 
 <br><p>
