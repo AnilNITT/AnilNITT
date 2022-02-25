@@ -42,4 +42,5 @@
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 </p>
 
+![](https://activity-graph.herokuapp.com/graph?username=AnilNITT&theme=react-dark&area=true)
 <!-- <img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
