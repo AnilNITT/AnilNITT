@@ -16,6 +16,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=AnilNITT)
+ 
+ <div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnilNITT&column=7"/>
+  </a>
+</div>
+
 <br><p>
 <br><p>
 <br><p>
