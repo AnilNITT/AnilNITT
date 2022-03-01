@@ -27,7 +27,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&theme=dark" alt="Anil-Patidar" /></p>
 </div>
 <br>
-[](https://komarev.com/ghpvc/?username=AnilNITT)
+
+![](https://komarev.com/ghpvc/?username=AnilNITT)
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
