@@ -19,16 +19,9 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Anil-Patidar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Anil-Patidar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnilNITT&show_icons=true&theme=dark&locale=en&layout=compact" alt="Anil-Patidar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Anil-Patidar"/></td>
   </tr>
 </table>
-
-
- #### :octocat: My Github Statistics
-![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
-<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&theme=dark" alt="Anil-Patidar" /></p>
  </div>
 <br>
