@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"> Jigar Sable </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"> Anil Patidar </a></h1>
 <h3 align="center">Data Scientist & Full Stack Developer</h3>        
 
 [![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
