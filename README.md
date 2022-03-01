@@ -11,8 +11,8 @@
   <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
    <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=white" ></a>
   <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white"></a>
-   <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=resume&logoColor=white"></a>
+   <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/badge/portfolio-bluevoilet?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   </p>
 </div>
 
