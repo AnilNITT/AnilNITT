@@ -9,16 +9,12 @@
   <a href="mailto:patidaranil0791@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/Anil_nitt_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a>
+ <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
+  <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p>
 </div>
 
-### Connect with me:
-<p>
-<a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
-<a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
-<a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
-<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=Linkedin&style=social&url=https://www.linkedin.com/in/anilnitt/" height="25">
-<a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
-<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
  #### :octocat: My Github Statistics
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
@@ -79,4 +75,16 @@
 <!-- <img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 [![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
+
+
+### Connect with me:
+<p>
+<a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
+<a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
+<a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Anil%20Patidar&logo=Linkedin&style=social&url=https://www.linkedin.com/in/anilnitt/" height="25">
+<a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
+
+
 -->
