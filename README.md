@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"> Anil Patidar </a></h1>
 <h3 align="center">Data Scientist & Full Stack Developer</h3>        
 
-[![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
 ### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
 ### Connect with me:
 <p>
@@ -66,4 +65,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=AnilNITT&theme=react-dark&area=true)
 <!-- <img src="https://img.shields.io/badge/javascript%20-%8a6d3b.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
+[![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
+-->
