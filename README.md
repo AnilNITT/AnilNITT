@@ -30,6 +30,12 @@
 
 ![](https://komarev.com/ghpvc/?username=AnilNITT)
 
+<table>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=AnilNITT&theme=buddhism" alt="Anil-Patidar" /></td>
+  </tr>
+</table>
+
 <div align="left">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
