@@ -23,6 +23,9 @@
  #### :octocat: My Github Statistics
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+ </div>
 <br>
 ![](https://komarev.com/ghpvc/?username=AnilNITT)
 <div>
