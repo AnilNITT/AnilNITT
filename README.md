@@ -1,4 +1,5 @@
-### Hello 👋, thanks for stopping by!            
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"> Jigar Sable </a></h1>
+<h3 align="center">Data Scientist & Full Stack Developer</h3>        
 
 [![Author: Anil Patidar](https://img.shields.io/badge/I'm-Anil%20Patidar-brightgreen)](https://www.linkedin.com/in/anilnitt/)
 ### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
