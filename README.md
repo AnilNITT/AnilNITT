@@ -15,6 +15,14 @@
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p>
 </div>
 
+ #### :octocat: My Github Statistics
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnilNITT&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
+
 
  #### :octocat: My Github Statistics
 ![Anil's github stats](https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
