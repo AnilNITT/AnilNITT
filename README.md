@@ -9,10 +9,10 @@
   <a href="mailto:patidaranil0791@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/Anil_nitt_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-   <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=black" ></a>
-  <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
-<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" height="25"></a>
-   <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a>
+   <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=white" ></a>
+  <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white"></a>
+   <a href="https://github.com/AnilNITT" target="_blank"><img alt="Portfolio URL" src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white"></a>
   </p>
 </div>
 
