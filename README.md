@@ -22,9 +22,10 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Anil-Patidar"/></td>
   </tr>
 </table>
-<div>
+
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&theme=dark" alt="Anil-Patidar" /></p>
- </div>
+</div>
 <br>
 ![](https://komarev.com/ghpvc/?username=AnilNITT)
 <div>
