@@ -25,7 +25,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=00FFFF&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=E603FF&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FF3922&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" /></p>
 </div>
 <br>
 
