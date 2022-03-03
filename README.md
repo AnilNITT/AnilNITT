@@ -46,6 +46,7 @@
 <h3 align="left">Artificial Intelligence & Machine Learning :</h3>
 <div align="left">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-orange?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img alt="PyTorch" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
