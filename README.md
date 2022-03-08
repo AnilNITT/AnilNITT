@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank" style="color:green"> Anil Patidar </a></h1>
-<h1 align="center"><span style="color:yellow">Data Scientist & Full Stack Developer</span></h1>        
+<h1 align="center"><span Style="color:yellow">Data Scientist & Full Stack Developer</span></h1>        
 
 ### I live with Creativity. I'm an Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
 
