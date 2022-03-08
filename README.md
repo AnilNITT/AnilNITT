@@ -108,7 +108,7 @@
 
 <h3 align="left">Github Avtivity</h3>
 
-![](https://activity-graph.herokuapp.com/graph?username=AnilNITT&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=AnilNITT&theme=chartreuse-dark&area=true)
   
   
   
