@@ -19,7 +19,7 @@
  #### :octocat: My Github Statistics
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="300"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="600"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&hide_langs_below=5&theme=chartreuse-dark" alt="Anil-Patidar"/></td>
   </tr>
 </table>
