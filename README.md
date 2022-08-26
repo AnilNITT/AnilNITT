@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/anilnitt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:patidaranil0791@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/Anil_nitt_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/Anil_NIT_TRICHY"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/Anil_nitt_official/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/Anil_NIT_TRICHY" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
    <a href="https://github.com/AnilNITT" target="_blank"><img alt="github URL" src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=github&logoColor=white" ></a>
   <a href="https://twitter.com/anil_nitt" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" ></a>
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=resume&logoColor=white"></a>
