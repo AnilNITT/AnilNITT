@@ -19,9 +19,10 @@
 
 <br>
 <br>
-<br>
 
+<div align="center">
 #### :octocat: My Github Statistics
+</div>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/></td>
