@@ -19,9 +19,12 @@
 
 <br>
 <br>
+<br>
 
 <div align="center">
+     
 #### :octocat: My Github Statistics
+     
 </div>
 <table>
   <tr>
