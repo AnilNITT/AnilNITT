@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="_blank" style="color:green"> Anil Patidar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="blank" style="color:green"> Anil Patidar </a></h1>
 <h1 align="center"><a href="#">Data Scientist & Full Stack Developer</a></h1>        
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
      
