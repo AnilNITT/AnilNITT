@@ -45,15 +45,15 @@
 </div>
 
 
-<div align="left">
+<div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AnilNITT&theme=buddhism&row=1&column=7"/>
   </a>
 </div>
 
-<h3 align="left">Artificial Intelligence & Machine Learning :</h3>
-<div align="left">
+<h3 align="center">Artificial Intelligence & Machine Learning :</h3>
+<div align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-orange?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -68,8 +68,8 @@
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 </div>
 
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
+<h3 align="center">Web Tech Stack :</h3>
+<div align="center">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23dff98.svg?style=for-the-badge&logo=node.js&logoColor=black"/>
 <img alt="React" src="https://img.shields.io/badge/react.js-00FFFF?style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
