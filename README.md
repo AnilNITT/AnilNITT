@@ -94,8 +94,8 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<h3 align="left">Databases :</h3>
-<div align="left">
+<h3 align="center">Databases :</h3>
+<div align="center">
   <img alt="PostgreSql" src="https://img.shields.io/badge/postgresql-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white&color=blue" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
