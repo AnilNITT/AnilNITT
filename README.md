@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/anilnitt/" target="blank" style="color:green"> Anil Patidar </a></h1>
 
 <h1 Style="color=red">Data Scientist & Full Stack Developer</h1>
 
