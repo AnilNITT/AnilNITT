@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 
-[![Spotify](https://github.com/sponsors/AnilNITT/card)](https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk)
+[![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)](https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk)
 
 <iframe src="http://wren.co/badge/simple/mims" style="width: 300px; height: 128px; border: 0" />
 
