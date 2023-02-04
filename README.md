@@ -3,7 +3,7 @@
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 
 <div>
- <iframe src="https://github.com/sponsors/AnilNITT/card" title="Sponsor AnilNITT" height="225" width="600" style="border: 0;">
+ <iframe src="https://github.com/sponsors/AnilNITT/card" title="Sponsor AnilNITT" height="225" width="600" frameborder="0">
  </iframe>
 </div>
 
