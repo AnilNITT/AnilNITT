@@ -23,9 +23,8 @@
 <br>
 <br>
 
-<div align="center">
-     [![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)](https://github.com/sponsors/AnilNITT)
-</div>
+[![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)](https://github.com/sponsors/AnilNITT)
+
 <br>
 
 <div align="center">
