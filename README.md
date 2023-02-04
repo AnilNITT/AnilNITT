@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-     [![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)]([https://open.spotify.com/user/skoldlhi3ffyvmx2ev5b8furk](https://github.com/sponsors/AnilNITT))
+     [![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)](https://github.com/sponsors/AnilNITT)
 </div>
 <br>
 
