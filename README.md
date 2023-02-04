@@ -23,7 +23,9 @@
 <br>
 <br>
 
-[![Sponsor](https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png)](https://github.com/sponsors/AnilNITT)
+<div align="center">
+  <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
+</div>
 
 <br>
 
