@@ -24,7 +24,8 @@
 <br>
 <br>
 <div>
-<img src="https://github.com/sponsors/AnilNITT/card" title="Sponsor AnilNITT" height="225" width="600" style="border: 0;"></iframe>
+ <iframe src="https://github.com/sponsors/AnilNITT/card" title="Sponsor AnilNITT" height="225" width="600" style="border: 0;">
+ </iframe>
 </div>
 <br>
 
