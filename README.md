@@ -29,7 +29,6 @@
   <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
 </div>
 
-<br>
 
 <div align="center">
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
