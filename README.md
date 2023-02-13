@@ -34,9 +34,6 @@
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
 </div>
          
-<br>
-         
-         
 <div align="center">
      
 #### :octocat: My Github Statistics
