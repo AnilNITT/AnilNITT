@@ -124,7 +124,7 @@
 
 <h3 align="left">Github Avtivity</h3>
 
-![](https://activity-graph.herokuapp.com/graph?username=AnilNITT&theme=chartreuse-dark&area=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=AnilNITT&theme=chartreuse-dark&area=true)
   
   
   
