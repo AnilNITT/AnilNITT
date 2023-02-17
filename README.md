@@ -69,7 +69,7 @@
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
 </div>
 
-
+ 
 <h3 align="center">Artificial Intelligence & Machine Learning :</h3>
 <div align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
