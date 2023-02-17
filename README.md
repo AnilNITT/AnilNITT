@@ -62,7 +62,7 @@
 </div>
 
 
-<h3 align="center">Web 3.0 & BlockChain Technology :</h3>
+<h3 align="center" color="#89ff00">Web 3.0 & BlockChain Technology :</h3>
 <div align="center">
   <img alt="Web3.0" src="https://img.shields.io/badge/web3.0-FF3E00?style=for-the-badge&logo=web3.js&logoColor=white"/>
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
