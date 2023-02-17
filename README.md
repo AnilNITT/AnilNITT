@@ -88,6 +88,8 @@
 
 <h3 align="center">Web Tech Stack :</h3>
 <div align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23dff98.svg?style=for-the-badge&logo=node.js&logoColor=black"/>
 <img alt="React" src="https://img.shields.io/badge/react.js-00FFFF?style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -95,7 +97,6 @@
 <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23dff98.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><br>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -104,12 +105,6 @@
 <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <br>
-</div>
-
-<h3 align="center">Languages :</h3>
-<div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <h3 align="center">Databases :</h3>
