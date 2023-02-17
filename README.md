@@ -54,7 +54,7 @@
 
 
 
-<div align="center">
+<div align="center" style="color:red">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AnilNITT&theme=buddhism&row=1&column=7"/>
