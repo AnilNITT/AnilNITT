@@ -54,7 +54,7 @@
 
 
 
-<div align="center" style="color:red">
+<div align="center" >
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AnilNITT&theme=buddhism&row=1&column=7"/>
@@ -62,7 +62,7 @@
 </div>
 
 
-<h3 align="center" color="#89ff00">Web 3.0 & BlockChain Technology :</h3>
+<h3 align="center" color="#89ff00" style="color:red">Web 3.0 & BlockChain Technology :</h3>
 <div align="center">
   <img alt="Web3.0" src="https://img.shields.io/badge/web3.0-FF3E00?style=for-the-badge&logo=web3.js&logoColor=white"/>
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
