@@ -61,6 +61,15 @@
   </a>
 </div>
 
+
+<h3 align="center">Web 3.0 & BlockChain Technology :</h3>
+<div align="center">
+  <img alt="Web3.0" src="https://img.shields.io/badge/web3.0-FF3E00?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+</div>
+
+
 <h3 align="center">Artificial Intelligence & Machine Learning :</h3>
 <div align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
