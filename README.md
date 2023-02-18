@@ -51,9 +51,6 @@
 <br>
 
 
-
-
-
 <div align="center" >
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
