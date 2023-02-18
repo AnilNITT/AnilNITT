@@ -117,7 +117,7 @@
 <div align="center">
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Render" src="https://img.shields.io/badge/render-%2300f.svg?style=for-the-badge&logo=render&logoColor=aqua" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FF7F00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
