@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank" style="color:green"> Anil Patidar </a></h1>
-
+ 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
