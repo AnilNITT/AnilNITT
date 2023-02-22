@@ -7,7 +7,7 @@
 ### I'm a Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
     
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="left"> 
   <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/Anil_nitt_official/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
