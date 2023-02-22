@@ -82,7 +82,7 @@
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
   <br>
-</div>
+</div> 
 
 <h3 align="center">Web Tech Stack :</h3>
 <div align="center">
