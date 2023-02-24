@@ -66,6 +66,7 @@
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
   <img alt="Ipfs" src="https://img.shields.io/badge/ipfs-00FFFF?style=for-the-badge&logo=ipfs&logoColor=black" />
+  <img alt="Remix" src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=Remix&logoColor=white" />
 </div>
 
  
