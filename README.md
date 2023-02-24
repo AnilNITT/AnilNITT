@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank" style="color:green"> Anil Patidar </a></h1>
  
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
-
+<div align="center">
+         
+  ![](https://komarev.com/ghpvc/?username=AnilNITT)
+         
+</div>
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
          
 ### I'm a Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
@@ -28,11 +32,7 @@
   <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
 </div>
 <br>
-<div align="center">
-         
-  ![](https://komarev.com/ghpvc/?username=AnilNITT)
-         
-</div>
+
          
 <div align="center">
      
