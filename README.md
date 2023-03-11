@@ -2,7 +2,7 @@
     
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
-          
+           
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
          
 </div>
