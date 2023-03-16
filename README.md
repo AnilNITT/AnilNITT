@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="#" target="blank" style="color:green"> Anil Patidar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="#" target="blank"> $\color{green}{Anil Patidar} </a></h1>
 
 $\color{green}{test}$
 
