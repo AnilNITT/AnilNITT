@@ -115,8 +115,11 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%23dff98.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+<div align="center">
 
 ## $\textcolor{green}{\textsf{Hosting :}}$ 
+
+</div>
 
 <h3 align="center">Hosting :</h3>
 <div align="center">
