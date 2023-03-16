@@ -1,14 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank"> Anil Patidar </a></h1>
 
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-
-<a href="red">Look, ma! Red!</a>
-
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
             
