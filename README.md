@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank"> Anil Patidar </a></h1>
 
-<span style="color:red">some **This is Red Bold.** text</span>
+<a href="red">Look, ma! Red!</a>
 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
