@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm <a href="#" target="blank">  $\color{green}{Anil Patidar}  </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="#" target="blank">  \textcolor{declared-color}{Anil Patidar}  </a></h1>
 
 $\color{green}{test}$
 
-\textcolor{declared-color}{text}
+{text}
 
 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
