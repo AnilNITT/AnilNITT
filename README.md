@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank"> Anil Patidar </a></h1>
 
-#### $\textcolor{green}{\textsf{Color didint work .}}$ 
 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
@@ -116,6 +115,8 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%23dff98.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+
+## $\textcolor{green}{\textsf{Hosting :}}$ 
 
 <h3 align="center">Hosting :</h3>
 <div align="center">
