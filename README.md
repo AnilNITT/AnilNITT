@@ -7,8 +7,8 @@
 </div>
 
 <div>
-            <a>hi</a>
-            <a>hi</a>
+            <a><img src="https://avatars.githubusercontent.com/u/106724029?s=200&v=4" width="50" height="50" /></a>
+            <a><img src="https://avatars.githubusercontent.com/u/101166608?s=200&v=4" width="50" height="50" /></a>
             <a>hi</a>
             <a>hi</a>
 </div>
