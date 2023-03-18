@@ -90,7 +90,11 @@
   <br>
 </div> 
 
-<h3 align="center">Web Tech Stack :</h3>
+<div align="center">
+
+## $\textcolor{aqua}{\textsf{Web Tech Stack :}}$ 
+
+</div>
 <div align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img alt="Python" src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white"/>
