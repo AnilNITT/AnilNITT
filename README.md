@@ -2,11 +2,10 @@
 
 <div align="center">
 
-# $\textcolor{aqua}{\textsf{Data Scientist n Full Stack Developer}}$ 
+# $\textcolor{aqua}{\textsf{Data Scientist and Full Stack Developer}}$ 
 
 </div>
 
-<h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
             
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
