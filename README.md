@@ -21,7 +21,7 @@
             <a><img alt="ML" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/ml.png" href="https://github.com/Awesome-Machine-Learning"                      width="50" height="50" /></a>
             <a><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/dl.png" href="https://github.com/Deep-Learning-Creativity"                  width="50" height="50" /></a>
 </div>
-
+<br>
 <div align="center">
             
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
