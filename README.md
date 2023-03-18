@@ -92,7 +92,7 @@
 
 <div align="center">
 
-## $\textcolor{aqua}{\textsf{Web Tech Stack :}}$ 
+## $\textcolor{cyan}{\textsf{Web Tech Stack :}}$ 
 
 </div>
 <div align="center">
