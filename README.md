@@ -121,7 +121,9 @@
 </div>
 
 <h3 align="center">Hosting :</h3>
+            
 ## $\textcolor{green}{\textsf{Hosting :}}$ 
+            
 <div align="center">
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Render" src="https://img.shields.io/badge/render-%2300f.svg?style=for-the-badge&logo=render&logoColor=aqua" />
