@@ -23,7 +23,7 @@
 </div>
 <div align="center">
 
-## ${\textsf{}}$ 
+## ${}$ 
 
 </div>
 <div align="center">
