@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## $\textcolor{aqua}{\textsf{Follow or Join My Organizations}}$ 
+## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
 
 </div>
 <div align="center">
