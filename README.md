@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# $\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
+# $\textcolor{#b4ff00}{\textsf{Data Scientist. BlockChain and Full Stack Developer}}$ 
 
 </div>
 
