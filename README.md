@@ -5,7 +5,7 @@
 <div align="center">
             
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
-         
+          
 </div>
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
          
