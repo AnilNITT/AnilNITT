@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="#" target="blank"> Anil Patidar </a></h1>
 
- 
 <h1 align="center"><a href="#" target="blank" style="color:green">Data Scientist & Full Stack Developer</a></h1>
 <div align="center">
             
