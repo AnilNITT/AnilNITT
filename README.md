@@ -7,7 +7,6 @@
           
 </div>
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
-<hr>  
 <br>
 ### I'm a Data Scientist and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
         
