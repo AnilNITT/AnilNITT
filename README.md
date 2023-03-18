@@ -9,7 +9,8 @@
 <div>
             <a><img src="https://avatars.githubusercontent.com/u/106724029?s=200&v=4" width="50" height="50" /></a>
             <a><img Style="border-radius: 2rem" src="https://avatars.githubusercontent.com/u/101166608?s=200&v=4" width="50" height="50" /></a>
-            <a>hi</a>
+            <a><img style="border:10px solid black;" src="//www.html.am/images/image-codes/milford_sound_t.jpg" width="225" height="151" alt="Photo of Milford Sound in New Zealand" />
+</a>
             <a>hi</a>
 </div>
 <div align="center">
