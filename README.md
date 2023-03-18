@@ -115,8 +115,6 @@
 </div>
 
 
-
-/* <h3 align="center">Hosting :</h3> */
 <div align="center">
 
 ## $\textcolor{yellow}{\textsf{Hosting :}}$ 
