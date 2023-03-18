@@ -74,7 +74,12 @@
 </div>
 
  
-<h3 align="center">Artificial Intelligence & Machine Learning :</h3>
+<div align="center">
+
+## $\textcolor{FF3E00}{\textsf{Artificial Intelligence and Machine Learning :}}$ 
+
+</div>
+            
 <div align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-orange?style=for-the-badge&logo=pytorch&logoColor=black" />
