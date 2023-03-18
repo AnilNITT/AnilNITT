@@ -12,14 +12,14 @@
 
 </div>
 <div align="center">
-            <a><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png" href="https://github.com/BlockChain-Creativity"                  width="50" height="50" /></a>
-            <a><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/node.png" href="https://github.com/NodeJs-Developments"                      width="50" height="50" /></a>
-            <a><img alt="ReactJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/react.png" href="https://github.com/ReactJs-Fun"                            width="50" height="50" /></a>
-            <a><img alt="NextJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/next.png" href="https://github.com/NextJs-Mastery"                          width="50" height="50" /></a>
-            <a><img alt="Web" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/web.png" href="https://github.com/Web-Development-Work"                        width="50" height="50" /></a>
-            <a><img alt="AI" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/ai.png" href="https://github.com/Artificial-Intelligence-                        Creativity" width="50" height="50" /></a>
-            <a><img alt="ML" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/ml.png" href="https://github.com/Awesome-Machine-Learning"                      width="50" height="50" /></a>
-            <a><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/dl.png" href="https://github.com/Deep-Learning-Creativity"                  width="50" height="50" /></a>
+            <a href="https://github.com/BlockChain-Creativity"><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png"                   width="50" height="50" /></a>
+            <a href="https://github.com/NodeJs-Developments"><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/node.png"                       width="50" height="50" /></a>
+            <a href="https://github.com/ReactJs-Fun"><img alt="ReactJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/react.png"                             width="50" height="50" /></a>
+            <a href="https://github.com/NextJs-Mastery"><img alt="NextJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/next.png"                           width="50" height="50" /></a>
+            <a href="https://github.com/Web-Development-Work"><img alt="Web" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/web.png"                         width="50" height="50" /></a>
+            <a href="https://github.com/Artificial-Intelligence-Creativity"><img alt="AI" rc="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/ai.png"               width="50" height="50" /></a>
+            <a href="https://github.com/Awesome-Machine-Learning"><img alt="ML" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/ml.png"                       width="50" height="50" /></a>
+            <a href="https://github.com/Deep-Learning-Creativity"><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/dl.png"                   width="50" height="50" /></a>
 </div>
 <br>
 <div align="center">
