@@ -107,7 +107,11 @@
 <br>
 </div>
 
-<h3 align="center">Databases :</h3>
+<div align="center">
+
+## $\textcolor{green}{\textsf{Databases :}}$ 
+
+</div>
 <div align="center">
   <img alt="PostgreSql" src="https://img.shields.io/badge/postgresql-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white&color=blue" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -120,7 +124,6 @@
 ## $\textcolor{yellow}{\textsf{Hosting :}}$ 
 
 </div>
-            
 <div align="center">
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Render" src="https://img.shields.io/badge/render-%2300f.svg?style=for-the-badge&logo=render&logoColor=aqua" />
