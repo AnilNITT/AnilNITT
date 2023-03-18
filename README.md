@@ -1,4 +1,18 @@
-<h1 align="center">👋 Hi, I'm <a href="#" target="blank"> Anil Patidar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="#" target="blank"> 
+            
+            <div align="center">
+
+$\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
+
+</div>
+            
+            </a></h1>
+<div align="center">
+
+$\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
+
+</div>
+
 
 <div align="center">
 
