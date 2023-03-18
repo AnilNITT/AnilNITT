@@ -116,10 +116,10 @@
 
 
 
-<h3 align="center">Hosting :</h3>
+/* <h3 align="center">Hosting :</h3> */
 <div align="center">
 
-## $\textcolor{green}{\textsf{Hosting :}}$ 
+## $\textcolor{yellow}{\textsf{Hosting :}}$ 
 
 </div>
             
