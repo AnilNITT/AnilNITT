@@ -76,7 +76,7 @@
  
 <div align="center">
 
-## $\textcolor{FF3E00}{\textsf{Artificial Intelligence and Machine Learning :}}$ 
+## $\textcolor{#FF3E00}{\textsf{Artificial Intelligence and Machine Learning :}}$ 
 
 </div>
             
