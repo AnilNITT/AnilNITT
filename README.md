@@ -1,4 +1,5 @@
-👋 Hi, I'm 
+<h1>👋 Hi, I'm </h1> 
+
 <div align="center">
 
 Hi  ##$\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
