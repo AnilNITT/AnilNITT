@@ -1,10 +1,4 @@
-<h1 align="center">👋 Hi, I'm </h1> 
-
-<div align="center">
-
-Hi  ##$\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
-
-</div>
+<h1 align="center">👋 Hi, I'm <a>Anil Patidar</a></h1> 
 
 <div align="center">
 
