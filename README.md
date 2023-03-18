@@ -4,12 +4,6 @@
 $\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
 
 </div>
-<div align="center">
-
-$\textcolor{#b4ff00}{\textsf{Data Scientist and Full Stack Developer}}$ 
-
-</div>
-
 
 <div align="center">
 
