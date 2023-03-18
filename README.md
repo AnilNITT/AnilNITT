@@ -148,7 +148,7 @@
 </div><br/>
 
 
-<h3 align="left">Github Avtivity</h3>
+<h3 align="center">Github Avtivity</h3>
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=AnilNITT&theme=chartreuse-dark&area=true)
   
