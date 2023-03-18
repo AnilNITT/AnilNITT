@@ -114,15 +114,14 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%23dff98.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<div align="center">
 
-
-
-</div>
 
 <h3 align="center">Hosting :</h3>
-            
+<div align="center">
+
 ## $\textcolor{green}{\textsf{Hosting :}}$ 
+
+</div>
             
 <div align="center">
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
