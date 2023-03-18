@@ -9,7 +9,7 @@
 <div>
 <div align="center">
 
-# $\textcolor{#b4ff00}{\textsf{Follow or Join My Organizations}}$ 
+### $\textcolor{aqua}{\textsf{Follow or Join My Organizations}}$ 
 
 </div>
             <a><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png" href="https://github.com/BlockChain-Creativity"                  width="50" height="50" /></a>
