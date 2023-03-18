@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# $\textcolor{aqua}{\textsf{Data Scientist & Full Stack Developer}}$ 
+# $\textcolor{aqua}{\textsf{Data Scientist n Full Stack Developer}}$ 
 
 </div>
 
