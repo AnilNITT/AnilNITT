@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I'm <a href="#">Anil Patidar</a></h1> 
   
-<div align="center">
+<h1 align="center">
+  
 # $\textcolor{#b4ff00}{\textsf{Data Scientist, BlockChain and Full Stack Developer}}$ 
-</div> 
+  
+</h1> 
  
 <div align="center">
 
@@ -183,6 +185,7 @@
 <a href="https://www.linkedin.com/in/anilnitt/" target="_blank"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 
+# $\textcolor{#b4ff00}{\textsf{Data Scientist, BlockChain and Full Stack Developer}}$ 
 
 
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
