@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="#">Anil Patidar</a></h1> 
   
 <h1 align="center">
-  
-# $\textcolor{#b4ff00}{\textsf{Data Scientist, BlockChain and Full Stack Developer}}$ 
-  
+Data Scientist, BlockChain and Full Stack Developer 
 </h1> 
  
 <div align="center">
