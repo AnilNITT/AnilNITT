@@ -4,7 +4,7 @@
   
 # $\textcolor{#b4ff00}{\textsf{Data Scientist, BlockChain and Full Stack Developer}}$ 
 
-</div>
+</div> 
  
 <div align="center">
 
