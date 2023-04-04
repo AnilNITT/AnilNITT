@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="#">Anil Patidar</a></h1> 
   
 <h1 align="center">
-Data Scientist, BlockChain and Full Stack Developer 
+  <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
 </h1> 
  
 <div align="center">
