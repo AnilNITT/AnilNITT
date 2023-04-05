@@ -33,7 +33,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-## $\textcolor{#FF3E00}{\textsf{Artificial Intelligence and Machine Learning :}}$ 
+## $\textcolor{#FF3E00}{\textsf{Connect with me :}}$ 
 
 </div>
 <div align="left"> 
