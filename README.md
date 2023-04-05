@@ -31,6 +31,11 @@
 ### I'm a Data Scientist, BlockChain and Full Stack Web Developer working with new technologies and and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work delightful..
         
 <h3 align="center">Connect with me:</h3>
+<div align="center">
+
+## $\textcolor{#FF3E00}{\textsf{Artificial Intelligence and Machine Learning :}}$ 
+
+</div>
 <div align="left"> 
   <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:patidaranil0791@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
