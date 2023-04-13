@@ -26,8 +26,6 @@
   ![](https://komarev.com/ghpvc/?username=AnilNITT)
           
 </div>
-
----
 <img src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/IMG_20220914_140541_163-modified.png" alt="Anil patidar" align="left" width="350" height="350" />  
 <br>
 
@@ -53,6 +51,7 @@
 <br>
 <br>
 <br> 
+---
 <div align="center">
   <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
 </div>
