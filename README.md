@@ -64,13 +64,13 @@
 </div>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&hide_langs_below=5&theme=chartreuse-dark" alt="Anil-Patidar"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy" alt="Anil-Patidar" height="300" width="700"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&hide_langs_below=5&theme=chartreuse-dark" alt="Anil-Patidar" decoding="async" loading="lazy"/></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/></p>
 </div>
 <br>
 
