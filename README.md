@@ -65,7 +65,9 @@
 <table>
   <tr>
     <td>
+      
       ![](https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true)
+    
     </td>
     <td><img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/></td>
     <td><img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&hide_langs_below=5&theme=chartreuse-dark" alt="Anil-Patidar" decoding="async" loading="lazy"/></td>   
