@@ -171,13 +171,12 @@
 
 <h3 align="center">Github Avtivity</h3>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnilNITT&bg_color=000000&color=00ff2a&line=11ff00&point=ffffff&area=true&hide_border=true)
-
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilNITT&bg_color=000000&color=00ff2a&line=11ff00&point=ffffff&area=true&hide_border=true" />
   
-  
 <!--
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AnilNITT&bg_color=000000&color=00ff2a&line=11ff00&point=ffffff&area=true&hide_border=true)
+
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=AnilNITT&theme=chartreuse-dark&area=true)
 
