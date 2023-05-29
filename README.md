@@ -74,8 +74,6 @@
 </div>
 <br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&theme=default
-  
 <div align="center" >
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
