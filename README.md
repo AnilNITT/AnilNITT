@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-            <a href="https://github.com/BlockChain-Creativity"><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png"                   width="50" height="50" /></a>
+            <a href="https://github.com/BlockChain-Creativity"><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png" width="50" height="50" /></a>
             <a href="https://github.com/NodeJs-Developments"><img alt="NodeJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/node.png"                       width="50" height="50" /></a>
             <a href="https://github.com/ReactJs-Fun"><img alt="ReactJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/react.png"                             width="50" height="50" /></a>
             <a href="https://github.com/NextJs-Mastery"><img alt="NextJS" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/next.png"                           width="50" height="50" /></a>
@@ -64,7 +64,7 @@
 </div>
 <table>
   <tr>
-    <td><img decoding="async" loading="lazy" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/></td>
+    <td><img decoding="async" loading="lazy" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT" alt="Anil-Patidar" height="300" width="700"/></td>
     <td><img decoding="async" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" alt="Anil-Patidar" /></td>   
   </tr>
 </table>
