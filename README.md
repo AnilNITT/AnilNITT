@@ -3,7 +3,7 @@
 <h1 align="center"> 
   <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
 </h1> 
-     
+      
 <div align="center">
 
 ## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
