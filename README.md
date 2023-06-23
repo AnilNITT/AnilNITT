@@ -74,8 +74,8 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
 
@@ -190,15 +190,6 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div><br/>
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" decoding="async" loading="lazy"/></td>
-  </tr>
-</table>
 
 <h3 align="center">Github Avtivity</h3>
 
