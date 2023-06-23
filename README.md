@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="#">Anil Patidar</a></h1> 
-                           
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" />
+
 <h1 align="center"> 
   <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
 </h1> 
