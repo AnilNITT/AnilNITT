@@ -3,7 +3,17 @@
 <h1 align="center"> 
   <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
 </h1> 
-      
+
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" decoding="async" loading="lazy"/></td>
+  </tr>
+</table>
+
 <div align="center">
 
 ## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
@@ -55,14 +65,6 @@
   <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
 </div>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" decoding="async" loading="lazy"/></td>
-  </tr>
-</table>
 ---
 
 <div align="center"> 
