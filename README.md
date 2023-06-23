@@ -57,11 +57,10 @@
 
 ---
 
-<div align="center">
-     
-#### :octocat: My Github Statistics
-          
+<div align="center"> 
+#### :octocat: My Github Statistics        
 </div>
+
 <h1></h1>
 
 <table cellpadding="0">
