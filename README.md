@@ -62,6 +62,7 @@
 #### :octocat: My Github Statistics
           
 </div>
+<h1></h1>
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -71,6 +72,8 @@
     <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5"/></td>
   </tr>
 </table>
+
+<h1></h1>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/>
