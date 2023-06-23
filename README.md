@@ -72,6 +72,14 @@
 
 <h1></h1>
 
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
