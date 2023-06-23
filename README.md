@@ -73,14 +73,7 @@
 </div>
 
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" decoding="async" loading="lazy"/></td>
-  </tr>
-</table>
+
 
 <br>
 
@@ -189,6 +182,17 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilNITT&bg_color=000000&color=00ff2a&line=11ff00&point=ffffff&area=true&hide_border=true" />
   
 <!--
+
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+   
+    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" decoding="async" loading="lazy"/></td>
+  
+    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" decoding="async" loading="lazy"/></td>
+  </tr>
+</table>
+
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AnilNITT&bg_color=000000&color=00ff2a&line=11ff00&point=ffffff&area=true&hide_border=true)
 
