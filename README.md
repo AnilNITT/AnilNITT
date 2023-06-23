@@ -69,10 +69,10 @@
 
 
 <div>
-<div>
+<div align="left">
   <img decoding="async" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" alt="Anil-Patidar" />
 </div>
-  <div>
+  <div align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/>
   </div>
 </div>
