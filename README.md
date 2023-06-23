@@ -64,7 +64,7 @@
 </div>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/></td>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/>
     <td><img decoding="async" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" alt="Anil-Patidar" /></td>   
   </tr>
 </table>
