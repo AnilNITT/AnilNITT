@@ -4,18 +4,11 @@
   <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
 </h1> 
 
-
-
-
 <div align="center">
 
 ## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
 
 </div>
-
-
-
-
 
 <div align="center">
             <a href="https://github.com/BlockChain-Creativity"><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png" width="50" height="50" /></a>
@@ -74,7 +67,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnilNITT&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   </div>
 </div>
