@@ -5,6 +5,15 @@
 </h1> 
 
 
+
+
+<div align="center">
+
+## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
+
+</div>
+
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -14,11 +23,6 @@
   </tr>
 </table>
 
-<div align="center">
-
-## $\textcolor{white}{\textsf{Follow or Join My Organizations}}$ 
-
-</div>
 
 <div align="center">
             <a href="https://github.com/BlockChain-Creativity"><img alt="Ethereum" src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/Org%20Logo/eth.png" width="50" height="50" /></a>
