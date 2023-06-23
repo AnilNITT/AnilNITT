@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="#">Anil Patidar</a></h1> 
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5"/></td>
-  </tr>
-</table>
+
 
 
 <h1 align="center"> 
@@ -74,16 +67,19 @@
 </div>
 
 <div>
-    
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5"/>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5"/></td>
+  </tr>
+</table>
 </div>
 
-
-  <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnilNITT&theme=chartreuse-dark&show_icons=true" alt="Anil-Patidar" height="300" width="700"/>
-  </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/>
+</div>
   
 
 
@@ -92,7 +88,7 @@
   <img decoding="async" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5" alt="Anil-Patidar" />
 </div>
   <div align="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/>
+    
   </div>
 </div>
 
