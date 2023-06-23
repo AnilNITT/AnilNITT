@@ -71,7 +71,9 @@
 
 <div align="center">
 <p>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilNITT&date_format=j%20M%5B%20Y%5D&ring=FBFF00&fire=FF0000&currStreakLabel=00FF2B&background=000000&stroke=EDFF00&currStreakNum=00FFCD&sideNums=00FF2B&sideLabels=DDDDDD&dates=DDDDDD" alt="Anil-Patidar" decoding="async" loading="lazy"/>
+
 </p>
 </div>
 <br>
