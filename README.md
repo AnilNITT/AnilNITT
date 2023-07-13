@@ -98,7 +98,7 @@
 <h3 align="center" color="#89ff00" style="color:red">Web 3.0 & BlockChain Technology :</h3>
 <div align="center">
   <img alt="Web3.0" src="https://img.shields.io/badge/web3.0-FF3E00?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=aqua" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
   <img alt="Ipfs" src="https://img.shields.io/badge/ipfs-00FFFF?style=for-the-badge&logo=ipfs&logoColor=black" />
   <img alt="Remix" src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=Remix&logoColor=white" />
