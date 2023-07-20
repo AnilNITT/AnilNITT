@@ -55,6 +55,7 @@
 </div>
 
 ---
+
 <div align="center">
   <a href="https://github.com/sponsors/AnilNITT" target="_blank"><img alt="Sponsor"src="https://raw.githubusercontent.com/AnilNITT/AnilNITT/master/image/sponsor.png"/>
 </div>
@@ -75,9 +76,6 @@
     <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilNITT&theme=chartreuse-dark&&hide_langs_below=5"/>
   </div>
 </div>
-
-
-
 
 <br>
 
