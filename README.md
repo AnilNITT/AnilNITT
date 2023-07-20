@@ -29,8 +29,6 @@
           
 </div>
 
----
-
 <div >
   
 <img align="left" height="290" width="300" src="https://github.com/AnilNITT/AnilNITT/blob/master/image/IMG_20220914_140541_163-modified.png"/>
