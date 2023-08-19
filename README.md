@@ -2,7 +2,7 @@
    
 <h1 align="center"> 
   <a href="#">Data Scientist, BlockChain and Full Stack Developer</a>
-</h1>  
+</h1>   
 
 <div align="center">
 
